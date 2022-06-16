@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ga-api-data-331804",
+  "private_key_id": "904123739b72b5ddd5f9d86799d6a5924ae04ab2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCiTdxpdc9Tz+Iz\n+zUKW9+GrOmAg3HZtymSNtpmzGk7/XKoZaBeA1Q+4qph4q6GODyrSBRyA+kCeUao\n0Gr/E3fQ2HNS/FkJomBNki8FaDsz75X/fYXSinadTMrS96fCCfROELnhUkHgdG7V\n/srPy+GqYr3qy8HdYv/oeB8/aPKcZeNfW/0x3N0m595PTQN/H/Hm3uobthCbwWun\nkLZcsGhZOzJi6fB3QPt/y8KYAO1cbu90rIBgOcVGPpo8IZmufI/5qZDHnWaUnnV6\nHSBEHfGwdZzb2NvSpLykWEqnWjoKgmyiSDWg27OA4HoMCNosj+o7vB3HI+fdfl5B\nE5v2T+WpAgMBAAECggEAAMTaqvs+aLi+6x0hErP9up8eGhhFVVE7VrCA12TXiMu6\nG9cja96bKxMa2Izg48znaK5WPnYLSBI4Bfu6zguTET+9SCLe7x9AUo3DQETOpv/X\nF5dKJ4W1ayhee6JlvpMaf7Yvk0Q3AK+8iLIE1vgx0QNXwAGIIRrjeH/9Mek24QvO\nlsl9O/WKh6+gdmm1QothIGFk6WeJBTVadJ+yfz6FFHvCYcROLbZTHZiPZhQDQ3Cu\noVrubpjTHKbDnEtFAorqHSsvr/KFoT1lySEdgYpfySKKwiQsSLcXFAp2L4t8ox+X\nXiybZTMw4/Y3//m2xWfKBh0J556UGIoLcP/KXuMmgQKBgQDkdRZbA+ixTnSpI6Ns\nIM/TJUe8XAuzupyJVkzTcxabkkSVOhA90yupnnSDXBGqOquaT1yv8FOmdQpnhaqc\ndg1GOMl5PZFBF2DAJt7tnK/NvOouz7lM/Ek2+FuYyoHij41TmxbyBBX0833bCIgb\nrn7AACikEkJc6quKWYspYoUCiQKBgQC13xO8MW/aCPcAXw013zqK9e2CAudvpDyo\nn3bnftEvTKk5YFkf3p5TLrJbJvvCjWbu4T3Z5SzaZ8XqHGLze0eViWNNbqrLZ8gz\nCR8rGvSsZQ1fd8Yp7l79hnDCWMlZ3OG60Z9GPrYBNX0JNggq0A2DW0RPhyLpQQhv\nSDfBlJmCIQKBgGpKG3OO9wT/JoHG5fKZtXdcIer9vCgLi2bOMwIxynPo8mWnVQUe\nqXLKGRVAkatsjohFoi7tFk4cqBGP+9e9iOGB7CKvRVROZyIfM5rDSnvjB+VtmZ26\nxul/VUZZ+WIKPcuHHX7N7dVAL+7nIkQWxDvaFw52vE90kwjULk2723xZAoGAMWQh\nsewjGi1xFvK5XbX/6hkbpUEwpQsPRiP4YKn6GURSeLiHu7XzfVejLEoL+Sv5lkop\nR/GLGs0v3IJVBRanvB6Rj0fMrmzC28lQY55wcBkJZrHaaSzJM0S9fqoqFHN+AgRH\nowYI248xI70+vpG9+bxhcs+aVYpJxh7wtWurvMECgYEAmecsFPP0lhBaPoq62scG\n9SlvrlyZWh1WBD5CA5ErkPp3zSJYvPMZaimpkdgH96UuX3Q6eCcEwsAY037u/Lf7\nK8J0O++loDfqc9+NPRBDAf9Odr7eA+Zhv1S8pEiC0UzKY7oKkBCdoSXBtd3ZcMW2\n0buTqNgEUVDOUm0L//4MtVk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gaserviceaccount@ga-api-data-331804.iam.gserviceaccount.com",
+  "client_id": "108395092684663448500",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gaserviceaccount%40ga-api-data-331804.iam.gserviceaccount.com"
+}
