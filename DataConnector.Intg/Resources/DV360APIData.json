@@ -1,12 +1,12 @@
 {
   "type": "service_account",
-  "project_id": "dv360-api-data-331804",
-  "private_key_id": "ef01171100a4a38a87b2e459d484ad5e698f6139",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5On5KfiTOvBtu\nSeSCq1wtRQhS/hgBk7kKsPVGlnL3ixKltvawq1vboQFcDqDUrHEvqVwj6a8gXMmE\nT6oK0e9oc+DbT5X2aSaizy9NetIasJnocTWzw1C8utLYNSgSPcJ4ucDOrQt3X+Ja\nKdUMYG9GxcWrdUcn5Ewwk5PaiytczmfnpAkcHB1xF0b/1rytrpikLIzvDfele6SL\nXPpy0GDcxCsxWCaNFQY6cfr1XfrKw5otr0OKgBJl0e7+/GEaNkvsp/osNoJceT1k\nO6ug5fBSRX9UxnK7Hyjk8eReT1WYcltuUyJAzuzc+Rf1XKX2uYFIxX5t30wIZZtE\ndVIS+D7BAgMBAAECggEALpSgJ9mbJgY2G8EnXxj64EOI+V3+6X6dvSuNMwgot0nZ\nEaV2Wi1tt0jBD8Z5+aG4ARVlH37n1Iqg/s4N5BSxUSI6/MwB2WrOFYlmyuRFLAMX\nYVX+/Er05dFRrp+HiTbQzg1giFkKFiYdxTDZ6/fgY/reX+TpVQXbhyfFueLfr8Gm\n55R6c4FtsFxlVOh/lnQrtlE2IpUN1FsEP+gpDyLwZwVi018423cNPfVKyB6fqtRh\njNx5VIQgNdSc6oKC60+lnufDLX1dD4OXYw7T+xM/50Qpw/jGcxAsuexyIKTmgoEZ\nvhYsH993jdcrqMOW9vgGl9Vrqjfb4uY2sV8KKTqYVQKBgQDaBVmUtWjzVuj2sVsj\niDVrkcBc6QfS0KdHdK6phG8Znv6HUwTKsDAZs9jpOWrtyXPao+GycjuI76PYLHWf\ncSWCPSTmlzQEWN41euHHdD4et8YI5l4OZCAYTzX01N5WUstL3B9n2aQEE+ee3Gwg\nv7q236nT2XW1yGwTEjdsU2x7SwKBgQDZfsPEaX9nxY48J87k6tMIOFMMUPfM7G03\nALX5dcQXUo77Ur64OifwIRjFOkH+NevReaX0XdlBJ/Ff21evSZ8uJQtonx0DnZsE\nVC8c2yJz0pI147B5Z7c6ThvOB91GjAH8xfGltliJ6541yzVWAFGygeYJ3XDO4xnk\nx5SgK+x6owKBgQCcmNUkND1C87z3XKKq3e4I6rKxyYueB9LvR0chaYdnbsVBrAa4\nE18pRv3ZXy2HyHgXpji5tMVAcWhNIHoH4PxhFMwJeLebG73XygCcA8mOxM9Qmy8Z\nxR8sdtC5n6BnfqaZQW2paTEe4LEwcQCVcUGKkxJnoT2kKWY/OIlonG9CCwKBgGDd\neEsNwVRyQ/q+sAJ8IyjSDQq7NOHrmmiYxHMp4/+PIWcFXzOlkwv7cZDFdYbGdRSC\nXUsMUSoXpATRJ6hF3cMrdH1QABgQJW40IBd18U4sRjoCAiLP8mbhSrjj/8TfrjLp\n5cmsAJrMeVXz/vkig0BBYjaajRdXRb0CtkrvxQ6JAoGAJIadf/tGF7hn2hpv/KwR\n3VdEgETpJU9ouLhrh+l3uN/CMQuL1w4AizAYKct3iubiwnXVSVpD8/RNFrmpcnoO\n06jdRKo0gSdVH4zUqM83bRkjdksXqD+rjhPMiLoxx9LiDmMTLN5vVa4IgdaRkRkx\npktQXAsIV5hFT03ilEwxxFk=\n-----END PRIVATE KEY-----\n",
-  "client_email": "ctdv360serviceaccount@dv360-api-data-331804.iam.gserviceaccount.com",
-  "client_id": "112698705841615846397",
+  "project_id": "Enter DV360 Project ID",
+  "private_key_id": "Enter DV360 Private Key ID",
+  "private_key": "Enter DV360 Private Key",
+  "client_email": "Enter DV360 Client Email",
+  "client_id": "Enter DV360 Client ID",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ctdv360serviceaccount%40dv360-api-data-331804.iam.gserviceaccount.com"
+  "client_x509_cert_url": "Enter DV360 Certificate Url"
 }

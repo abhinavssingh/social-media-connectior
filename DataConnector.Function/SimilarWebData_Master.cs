@@ -15,7 +15,7 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using Dependency = DataConnector.Intg.Logging.Dependency;
 
-namespace CooperTire.DigMktg.CDB.Intg.FA.BI
+namespace DataConnector.Function
 {
     public static class SimilarWebDataMaster
     {
