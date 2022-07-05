@@ -1,5 +1,6 @@
-# SocialMedia
-Code is use to get the data of Ads/Campaign from different social media platform using their respective api
+# Social Media Connector
+Business Intelligency totally depends on data from various sources to analyze how much is being spent on different sources and what is ROI. This coonection will be used to get data from various social platform. Code is use to get the data of Ads/Campaign from different social media platform using their respective api
+
 # Facebook
 Before You Start
 You will need:
@@ -15,7 +16,6 @@ Register for Twitter developer account, and create consumer and secret keys.
 
 # Google Analytics
 You need Google Analytics Reporting API to fetch the data from Google analytics
-
 
 # Display Video 360
 Prerequisites for using Display & Video 360 API:
